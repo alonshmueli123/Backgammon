@@ -6,3 +6,6 @@ The player with the white pieces starts. The left mouse button is responsible fo
 After moving the pieces the turn goes to the other player and so it continues.
 
 Good luck!
+
+# Getting Started
+Run main together with the other python files.
